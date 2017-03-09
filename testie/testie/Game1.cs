@@ -12,6 +12,7 @@ namespace testie
 
         //testnigger
         //Horfittanegerkukungjävelkukbarn
+        //niggers
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 

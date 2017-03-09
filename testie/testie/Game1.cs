@@ -12,6 +12,7 @@ namespace testie
 
         //testnigger
         //jonte is a stupid nigger
+        //vill ni höra ett skämt? Felix liv
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 

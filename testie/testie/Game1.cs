@@ -11,6 +11,7 @@ namespace testie
     {
 
         //testnigger
+        //jonte is a stupid nigger
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 

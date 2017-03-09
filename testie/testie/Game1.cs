@@ -11,8 +11,13 @@ namespace testie
     {
 
         //testnigger
+<<<<<<< HEAD
         //jonte is a stupid nigger
         //vill ni höra ett skämt? Felix liv
+=======
+        //Horfittanegerkukungjävelkukbarn
+        //niggers
+>>>>>>> origin/master
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
